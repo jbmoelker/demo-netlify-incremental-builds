@@ -1,5 +1,5 @@
 [build]
-  command = "mkdir dist/ && node build.js"
+  command = "mkdir -p dist/ && node build.js"
   publish = "dist"
 
 [[plugins]]
