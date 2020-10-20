@@ -1,0 +1,3 @@
+[build]
+  command = "mkdir dist/ && node build.js"
+  publish = "dist"
